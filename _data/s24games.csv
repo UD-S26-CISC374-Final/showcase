@@ -1,0 +1,264 @@
+Md,Game,Team,Developers,Blurb,Instructions,Screenshot,Video,Egdd,Credits
+apricot.md,Jungle Quest,apricot,"Rachel Robins, Jonathon O'Connell","Jungle Quest follows a cute jaguar character and a band of colorful monkeys through a series of levels that teach the programming concepts of classes and if-statements. In level 1, the player must fill in the blanks of a class declaration with the correct descriptive word based on the image of a cartoon monkey. Level 2 introduces if-statements, so that you fill in the blank based on both the result of the conditional and the appearance of the monkey. The third and final level continues with if-statements, however, the result of the conditional determines which simple action, such as feeding bananas to a monkey, you must complete to progress. If you complete the wrong action, the level resets.","To complete levels 1 and 2, drag the word that correctly matches the description of the on-screen monkey to the corresponding blank in the class declaration. Be sure to think carefully about the logic of the if-statements in level 2. To complete level 3, peform the correct action depending on the result of the if-statement. The actions are written inside a psuedo function call -> action(). Don't forget to find the collectables hidden in each level's enviornment","![large](/docs/large.png)
+![small](/docs/small.png)",https://drive.google.com/file/d/1TRpyirBWKtQwREn1KmcAhkAlDMN777qS/view?usp=drive_link,Link to our [egdd](/docs/egdd.md),"- [Canva](https://www.canva.com/), nearly every asset used in Jungle Quest can be attributed to Canva's Pro Content Licenses
+- [Phaser Documentation](https://newdocs.phaser.io/docs/3.80.0)
+- Assets
+  - [Menu Monkey](https://www.canva.com/icons/MAEJtpmzdPQ/)
+  - [Level Monkey](https://www.canva.com/photos/MAFD6Id8YNw/)
+  - [Jaguar](https://www.canva.com/icons/MAE4Yri_-9c/)
+  - [Background](https://www.youtube.com/channel/UCJSqAeWEJHv-QLROBBt_C7w)
+  - [Banana](https://www.canva.com/icons/MAB0h5Ap2wI/)
+  - [Coconut](https://www.canva.com/icons/MACMnBbiQts/)
+  - [Parrot](https://pngimg.com/image/96559)
+  - [Macaw](https://www.canva.com/icons/MAE4YjsZADg/)
+  - [Rock](https://www.shutterstock.com/image-vector/earth-stone-rock-high-quality-vector-2173754571?utm_campaign=image&utm_medium=googleimages&utm_source=schema)
+  - [Pirate Hat](https://www.canva.com/photos/MAEevo38PxE/)
+  - [Party Hat](https://www.canva.com/icons/MAEulS51eRM/)
+  - [Chameleon](https://www.canva.com/icons/MAFQwu8pccU/)
+  - [Tree Kangaroo](https://www.canva.com/icons/MAE4YnIzuSY/)
+  - [Sloth](https://www.canva.com/icons/MAE4YtX4PeU/)
+  - [Help Button](https://www.iconsdb.com/white-icons/help-icon.html)
+  - [Reset Button](https://www.canva.com/icons/MAC9oI5_brE/)
+  - [Star](https://www.canva.com/icons/MAE7lN2ihD8/)
+- Audio
+  - [Correct Sound](https://cdn.pixabay.com/download/audio/2022/03/10/audio_2318350b97.mp3?filename=correct-choice-43861.mp3)
+  - [Incorrect Buzzer](https://pixabay.com/sound-effects/buzzer-or-wrong-answer-20582/)
+  - [Background Music](https://uppbeat.io/t/kevin-macleod/accralate)
+  - [Rock Crumble](https://freesound.org/people/EminYILDIRIM/sounds/541477/)
+  - [Squawk](https://assets.mixkit.co/active_storage/sfx/11/11.wav)
+  - [Gecko Noises](https://www.soundsnap.com/ss_gecko_talking_140307_00_wav)"
+beige.md,Terminal 0,beige,"Blade Tyrrell, Zachary England, Laura Lewis","Terminal 0 is a video game dedicated to teaching users how to navigate a new operating system and investigate a system using basic cybersecurity concepts. The user will explore terminals, windows, and commands while trying to solve the mystery of the computer's origin. Terminal 0 is meant to teach the user how to interact with a real bash-based terminal and UI. The player will be guided by CAT: a program (or something...) on the computer who offers you slightly too sarcastic advice and guidance. With the help of your assistant, CAT, explore the operating system and the mysteries that lie within!","CAT will guide you through most things, but here are some other instructions:
+
+-   Click on the bottom of the terminal to start typing inside
+-   Hit enter to submit your terminal command
+-   Click on the desktop icons to open other windows
+-   Click on the red X to close the windows
+-   Don't rm anything you're not willing to lose.",![A screenshot of the game](assets/Capture.PNG),https://www.youtube.com/watch?v=vYD6jjKvhuI,Link to our [egdd](docs/egdd.md),"-   Windows XP Background: https://www.wallpaperhub.app/wallpapers/6852
+-   Locked File SFX: https://www.myinstants.com/en/instant/correct-ding/?utm_source=copy&utm_medium=share
+-   Pop Sound Effect: https://pixabay.com/sound-effects/pop-39222/
+-   Blip Sound Effect: https://pixabay.com/sound-effects/blip-131856/
+-   Background Music: https://youtu.be/qaBlfapZB6s?si=2MIMsFTicQRiwHxZ"
+blue.md,Boolean Bonanza,blue,"Mitchell Ramos-Navarro, Emma Metcalfe","Embark on a thrilling journey in Boolean Bonanza, a brain-teasing puzzle game inspired by classics like Yoshi's Cookie and Candy Crush. Swap tiles strategically to create true boolean expressions, sharpening your logical reasoning skills with each level. Progress through increasingly challenging puzzles set in a vibrant Mario-themed world accompanied by playful music, adding to the immersive experience. With retro aesthetics and engaging gameplay, Boolean Bonanza offers a delightful challenge for students of logic, programming, and puzzle enthusiasts alike.","Complete stages by clearing rows!<br>
+To clear a row, you must evaluate rows to True.<br>
+You can click on the 'check' button to check if any rows evaluate to True.<br>
+If you come across rows that cannot evaluate to True, you can click on the 'shuffle' button to change tiles.",![Screenshot of game](https://github.com/UD-S24-CISC374/final-project-blue/blob/main/docs/large.png),https://drive.google.com/file/d/1Ippc0N37PtEN4s0jTDq6l4iqXVZMkXSC/view?usp=drive_link,Link to our [egdd](https://github.com/UD-S24-CISC374/final-project-blue/blob/main/docs/egdd.md),"[Background Music](https://pixabay.com/music/video-games-bit-beats-1-168243/)<br>
+[Incorrect Sound](https://pixabay.com/sound-effects/error-4-199275/)<br>
+[Start Menu Background](https://craftpix.net/freebies/free-nature-backgrounds-pixel-art/)"
+brown.md,Cross the Pond,brown,"Rachel Sison, Lizzy Kalfas",Oh no! You and your duck family have been seperated! You need to find your way back to each family member and bring them all together. Using Dijkstra's Algorithm you will find the shortest path of stepping stones across a pond to get to a family member on the other side. Complete each level to gain another member of your family back. Pass all five levels to reunite with your mother and become one big happy duck family again.,Find the shorteest pathusing Dijkstra's Algorithm. Click each stone on your path starting with the stone labeled start,[/assets/img/large.png],https://www.youtube.com/watch?v=pC5k8cKE9ow,Link to our [egdd](docs/egdd.md),"Pond img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcartoon%2Bpond&psig=AOvVaw3vGnAdxl3dVewlfHfboCob&ust=1712347180978000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDMor-sqYUDFQAAAAAdAAAAABAE
+
+Duck img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcute-duck-cartoon-vector-illustration_44380447.htm&psig=AOvVaw1GgLt8tCokW8d_WevV3Gkl&ust=1712347485292000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDvje6tqYUDFQAAAAAdAAAAABAE
+
+Stepping Stones:https://www.google.com/url?sa=i&url=https%3A%2F%2Felchighland.com%2Fstepping-stones-2%2F&psig=AOvVaw0mxlnd_Qc6akzH6ufxYGhL&ust=1712350228058000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODi7-q3qYUDFQAAAAAdAAAAABAE
+
+Music:
+Pass audio:
+
+https://www.myinstants.com/en/instant/rubber-duckie/?utm_source=copy&utm_medium=share 
+
+Fail audio:
+
+https://www.fesliyanstudios.com/royalty-free-sound-effects-download/sad-trombone-242
+
+Background music:
+
+https://pixabay.com/music/search/genre/cartoons/
+
+Clicking on each stone sound:
+
+https://www.myinstants.com/en/instant/duck-toy-sound-18073/?utm_source=copy&utm_medium=share 
+
+Winning audio:
+
+https://pixabay.com/sound-effects/search/happy/"
+cyan.md,Boolean Bonanza,cyan,"Alex Trexler, Michael Murphy, Clay Wilfong","Boolean Bonanza is a dynamic puzzle game where players are presented with a grid of squares labeled with boolean values and operators such as True, False, And, Or and Not. The goal of the game is to click and move these blocks throughout the rows and columns of the grid to craft a boolean statement that evaluates to True. After successfully making a row or column that evaluates to True, the row or column will be cleared from the grid and the player will add points to their score. Boolean Bonanza is designed to offer a fun way to learn boolean logic.","Starting the Game
+
+-   Select one of the three options on the menu:
+    -   Tutorial (An interactive walkthrough of the game)
+    -   Play 3 x 3 (A game mode that presents a 3 x 3 grid of boolean blocks and operators)
+    -   Play 5 x 5 (A game mode that presents a 5 x 5 grid of boolean blocks and operators)
+
+Gameplay Instructions
+
+-   Interact with the grid by clicking on one of the blocks. (The block will be tinted indicating you have clicked on it)
+-   Click on another block to swap its position with your already selected block.
+-   Maneuver the blocks in this manner to make a row or column that demonstrates a boolean statement that evaluates to True such as:
+    -   T AND T
+    -   F OR T
+    -   T AND T OR F
+
+Scoring / Time
+
+-   After making a row or column that evaluates to True, the row or column will disappear and add points to the player's score.
+-   The player must make as many True boolean statements as they can before the time limit in the corner of the screen runs out and ends the game",![screenshot](https://github.com/UD-S24-CISC374/final-project-cyan/blob/main/docs/large.png?raw=true),https://www.youtube.com/embed/qgengQMsyD0?si=A9qvKEe1d8bq5z-h,Link to our [egdd](https://github.com/UD-S24-CISC374/final-project-cyan/blob/main/docs/egdd.md),"Boolean block textures: Alex Trexler
+
+Block break sound: Cork by Blender Foundation (submitted by Lamoot) https://opengameart.org/content/cork
+
+Gameplay background music: Contemplation by Bart https://opengameart.org/content/contemplation
+
+Button press sound: Cloud Click by Mobeyee Sounds https://mobeyee.com
+
+Main menu music: Puzzle Menu by caret7 https://opengameart.org/content/puzzle-menu
+
+Block Break Animations: AlotofImpacts - 5 Frame Impacts by JoesAlotofthings https://opengameart.org/users/joesalotofthings"
+green.md,Infamia di Creti,green,"Mantra Yang, Sehee Hwang","Infamia di Creti is a game based on the myth of Theseus and the Minotaur. Players play as Theseus, a young prince, who sets out on a quest to slay the Minotaur, a half-man, half-bull monster at the center of the maze, to save the people of Crete from being sacrificed to it. Theseus must travel through three rooms of the maze in order to reach the center where the Minotaur lives. The game's learning objective is to teach players about Java classes and methods. Players can upgrade and change the type of Theseus's weapon by writing code using provided classes and methods.","Once the game loads in the browser, you must click on ""Enter the Maze"" to begin the game. The game begins with a tutorial, during which Ariadne, the princess of Crete, provides Theseus with a bow and guides him through an example of how to use the weapons system. In the tutorial, Thesues must increase the damage of his bow and once he is successful he can enter the maze. Theseus enters a room with two skeleton enemies which he must defeat to progress to the next room. There are two rooms after the initial room that Theseus must progress through to reach the Minotaur at the center of the maze. These two rooms have different enemies and the difficulty level of the game increases as Theseus progresses through the room. The number of enemies increases as well as how much health they have. Upon death, enemies will drop a weapon, a weapon upgrade feature, or a weapon type feature. The increasing difficulty encourages the player to use the weapon system to modify their weapon. Once Theseus reaches the center of the maze, he must defeat the Minotaur to win the game and save the people of Crete.",![Screenshot of the first room in Infamia di Creti](/docs/large.png),https://github.com/UD-S24-CISC374/final-project-green/assets/131828619/7118c93c-0296-4285-ae5f-78b3f9595322,Link to our [egdd](docs/egdd.md),"- https://quintino-pixels.itch.io/cc-10-top-down-dungeon-tileset 
+- https://opengameart.org/content/legend-of-faune
+- https://opengameart.org/content/sword-normal
+- https://opengameart.org/content/weapon-slash-effect
+- https://opengameart.org/content/animated-fantasy-bows
+- https://jitsukoan.itch.io/minotaur
+- https://opengameart.org/content/skeletons-rework
+- https://despairparty.itch.io/rpgmaker-spriteface
+- https://pogutatar.itch.io/pixel-button-pack-by-pogutatar
+- https://xzany.itch.io/flying-demon-2d-pixel-art
+- https://lilwillydesigns.itch.io/dark-enemies-pack
+- Music by OB-LIX:
+  - https://pixabay.com/music/suspense-the-spell-dark-magic-background-music-ob-lix-8009/"
+lavender.md,Schedulesine,lavender,"Joshua Taing, Joanna Crisomia","Schedulesine: a fast-paced, cooking simulator that also teaches you basic sorting algorithms! Complete dishes in the correct order, based on the current algorithm strategy you have, and try to complete as many dishes as you can! The more dishes you complete in the given amount of time, the more money you make!","Use the mouse and the LMB to navigate through the menus. Once in-game, use WASD for movement and the LMB to pick-up/interact with a variety of objects (note: your mouse does NOT need to be hovering over the object in-game to interact with it, the player character needs to be).",![Screenshot of gameplay.](/docs/large.png),https://youtu.be/DDN5fMMAL7g,Link to our [egdd](https://ud-s24-cisc374.github.io/final-project-lavender/docs/),"-   Tilesets: https://limezu.itch.io/
+-   Some Cooking Assets: https://hello-erika.itch.io/"
+lime.md,Cyber Spy,lime,"Nicholas Lago, John Henry Cooper, Alex Maneri","Cyber Spy is an educational puzzle game introducing players to the intricacies of navigating in the terminal. Cyber Spy will teach players basic bash commands in a time based environment, challenging them to improve their skills. The story follows a hacker spy and his companion Alfred, through several missions to dethrone a corrupt organization. Whether its finding hidden passcodes or removing a dangerous file created by the opposition, players can always rely on utilizing commands to get the mission done. Players should be able to traverse through the terminal efficiently with the knowledge gained after completing this game.","Arrow Keys to Move
+
+Keyboard to Type",![Gameplay Image](/docs/large.png),https://www.youtube.com/embed/watch?v=Zo90xJLjoSc,Link to our [egdd](docs/egdd.md),"-   Sprites Created By us in make8bitart & Pixilart
+-   [make8bitart](https://make8bitart.com/)
+-   [Pixilart](https://www.pixilart.com/)
+-   [Game Music No Copyright Channel](https://www.youtube.com/@Pixverses)
+-   [Level 4 Music](https://www.youtube.com/watch?v=MIppc7zfqis&list=PLO4jlmGoc6uAy9S9J3SPXv-UrHBm9Bgz9&index=2)
+-   [ChatGPT](https://chatgpt.com/)"
+magenta.md,Git-Cat,magenta,"Joshua Martinez, Zachary Reggio, Ava West","Git-Cat is a platformer-style game designed to instruct players in basic Git principles, set against the backdrop of a space-faring cat's adventure. As players journey through the game, they encounter various non-player characters (NPCs) who contribute to the storyline while also imparting Git-related knowledge. Terminal checkpoints situated throughout the levels present challenges integrated into the narrative, prompting players to utilize Git commands to progress. Commands initially will be entered via buttons pressed but as the player progresses they will need to type the commands. Armed with insights from NPCs and feedback received at these checkpoints, players effectively tackle each challenge they face.","To play the game go to [Game Link]https://ud-s24-cisc374.github.io/final-project-magenta/ or the github environment deployemnt linked in the repository.
+
+-   If neither of those options work you will have to clone the reposity somewhere with node.js installed and run `npm install` and then `npm run start`.",![Screenshot of the game Git Cat in action. The player is interacting with the terminal in-game.](https://github.com/UD-S24-CISC374/final-project-magenta/blob/main/docs/large.png),https://youtu.be/PNdYWBWqkdc,Link to our [egdd](https://github.com/UD-S24-CISC374/final-project-magenta/blob/main/docs/egdd.md),"-   [Incorrect Terminal sound](https://opengameart.org/content/bad-sound-1) - Author remaxim on open game art
+-   [Correct Terminal Sound](https://opengameart.org/content/gold-coin-6) - Author Aeva on open game art
+-   [Checkmark](https://opengameart.org/content/animated-checkmark) - Author Grahhhhh on open game art
+-   [Arrow](https://opengameart.org/content/glow-arrow) - Author oglsdl on open game art"
+mint.md,Western Weaponsmith: Code Arsenal,mint,"Sibyl Roosen, Jacob Meredith","Step into a totally accurate representation of Wild West with Western Weaponsmith: Code Arsenal, a unique single-player platformer that blends 2D adventure with coding education as players craft their weapon load-outs through coding classes and instances in TypeScript to conquer enemies in this comedic coding quest.","1. Click buttons under “Menu” to see what classes, types, and attributes you have unlocked.
+2. Use the textboxes to fill in the missing components of each class using your unlocked items.
+3. Click “Submit Code” and rectify any errors that you see in the errors box.
+4. Click the example button to see an example
+5. Control your character with the up, left, and right arrow keys. Press space bar to fire weapon.
+6. Pick up items in each level to make them available in your inventory under the class 'Menu' on the loadout screen.
+7. Defeat all enemies and reach the checkpoint flag to progress.","Example game play:
+![Example](large.png ""Example"")",https://drive.google.com/file/d/1nNhORH82lCROw4jYb86jMfRGHVT-mQvN/view?ts=6642a7e6,Link to our [https://github.com/UD-S24-CISC374/final-project-mint/blob/main/docs/egdd.md](Educational Game Design Document),TEXT GOES HERE
+navy.md,Boolean Bonanza,navy,"Mercedes Mathews, Rana Tuncer","Let's be honest: We've all been bored before in class--bored enough to pull open a tab of solitaire or minesweeper and play it rather than listen to the monotonous droning of the professor during lecture. So, what if we took that concept and made it useful? What if we were given the chance to learn about a topic, say, Boolean operations, through a fun game instead of a lengthy class? That's where Boolean Bonanza comes in. A match-based, Candy Crush style game that involves matching logical blocks on a game board to evaluate and create boolean expressions.","Players can traverse the board with WASD keys, and use the arrow keys to shift blocks around. The point is to move the blocks such that the expression in the entire row/column evaluates to true. In order to complete each level, players must meet the requirements of the round before running out of moves.",![Game Snapshot](./docs/large.png),https://www.youtube.com/embed/MoIkJmGQfFU?si=8F-u-RALv5qWJxrQ,Link to our [egdd](https://ud-s24-cisc374.github.io/final-project-navy/docs/egdd.html),"-   Frog vector image by kyafadhil808412, modified by Rana in Aseprite. <a href=""https://www.vecteezy.com/free-vector/sign"">Sign Vectors by Vecteezy</a>
+-   Background image by 16pxl, modified by Rana in Aseprite. <a href=""https://8pxl.tumblr.com/post/712784334718894080/rest-now-youve-earned-it-available-as-a"">Link to Image</a>
+-   ""Bossa Antigua"" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""Funk Game Loop"" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""Miami Viceroy"" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""Thief in the Night"" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""Vibing Over Venus"" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""ZigZag"" Kevin MacLeod (incompetech.com)
+    Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
+-   ""Select Button Sound Effect"" Free Gaming Sound Effects https://www.youtube.com/watch?v=KsDg-ggEOvk
+-   ""Jazz Chords SOUND Effect"" SOUND Effects Public Domain https://www.youtube.com/watch?v=7jSUfGcXkDc
+-   ""Collect Item Sound EFfect"" SFX WARD https://www.youtube.com/watch?v=AFYWsbUSasw"
+olive.md,Terminal Tactics,olive,"Lawrence Collins, Victor Vasquez","In ""Terminal Tactics,"" players face a zombie onslaught using strategic Unix commands as their arsenal. Mimicking the tower defense genre, players must strategically arrange their troops in the correct sequence to repel the zombie invasion. Just like in ""Plants vs. Zombies,"" each command possesses unique attributes, from defensive capabilities to offensive strikes, requiring players to think tactically to outsmart the undead hordes. This educational twist not only challenges players' gaming skills but also enhances their understanding of Unix commands, making ""Terminal Tactics"" an engaging fusion of entertainment and education in the battle against the undead.","Type into the command line to find your troops (cd, ls, etc.)",TEXT GOES HERE,,(https://github.com/UD-S24-CISC374/final-project-olive/blob/main/docs/egdd.md),"GitHub: Ideas and some code
+Phaser Forums: Ideas and some code
+Pixabay: Music
+ChatGPT
+Microsoft Designer AI Image Creator"
+orange.md,Cross The Pond,orange,"Kristina Balta, Aesha Kothari","Cross The Pond is about a baby frog who is separated from its mother and is trying to find its way back to her. In order to do this, the baby frog will cross a pond by hopping on lily pads connected together. On the lines connecting each lilypad, there will be numbers. The goal of the game is for the baby frog to hop on the correct lilypads that make up the shortest path. The shortest path should be decided using Dijstra's graph searching algortihm. There are 10 different levels with increasing difficulty.","You are playing as the baby frog who starts each level in the bottom left corner. Using Dijkstra's graph search algortihm, cross the pond by jumping on connected lilypads to get the baby frog back to its mother/",![Screenshot of Level 1](/docs/large.png),https://www.youtube.com/embed/jeApkqySH7k?si=MiZa7RhVqmG7K_bz,https://github.com/UD-S24-CISC374/final-project-orange/blob/main/docs/egdd.md,"Pond Background & Lilypads - https://www.vectorstock.com/royalty-free-vector/small-pond-from-top-view-vector-6009138
+Frogs - https://opengameart.org/content/frog-smilies
+Splash Sound - https://opengameart.org/content/water-splashes
+Background Sound - https://pixabay.com/sound-effects corporate-motivational-corporate-medium1-110677/
+Ribbit Sound - https://orangefreesounds.com/frog-sound-ribbit/#google_vignette"
+pink.md,Bash the Dungeon,pink,"Quinten Bettin, Jacob Marks, Charles Gordiner","A top down shooter based on the game Enter the Gungeon. You are stuck within the terminal, which manifests as a harsh dungeon. You will first find the two NPC's which will help you learn how to play. When they deem you are ready, you will be granted passage to bash the dungeon. You will traverse through rooms, defeat enemies, unlock new weapons, and utilize your in-game terminal to do all of this. In order to successfully fight the enemies you will need to operate your weapons and player with various bash commands. Additionally, you will face the end boss which will be the final test of your command knowlege, and game sense. Ultimately the objective of the game is to escape the terminal and learn some bash commands along the way.","-   Movement
+    -   WASD to move
+    -   Right click WHILE moving to dodge roll
+        -   Dodge rolling grants invulnerability, and a 25% speed increase
+-   Interaction
+    -   'E' is used for...
+        -   Talking to NPC's
+        -   Opening chests
+-   Weapon
+    -   Left click to shoot
+    -   Single shot weapons are one click per shot
+        -   Will not shoot during dodge roll
+    -   Automatic weapons are one click to shoot entire round
+        -   Will continue shooting during dodge rolling
+        -   Round will 'pause' on two conditions
+            1. Player opens command prompt
+            2. Player changes to different weapon
+-   Terminal / Command Prompt
+    -   Open and close with 'Tab'
+    -   Execute a command with 'Enter'
+    -   'help' lists commands
+    -   'ls' lists objects in the room
+    -   'gcc gun.c' compiles your held weapon
+        -   './a.out' reloads your help weapon
+    -   'mv player room_XX' moves player into roomXX
+        -   i.e. room02 for the 2nd room, etc
+    -   'mv gun.c player' to move the gun on the ground to your hand
+    -   'rm bullets.c' removes all enemy bullets on screen",![large screenshot image](/docs/large.png),https://youtu.be/jvUAxz_jIdI,Link to our [egdd](https://ud-s24-cisc374.github.io/final-project-pink/docs/egdd.html),"-   [Robot Player](https://www.spriters-resource.com/pc_computer/enterthegungeon/sheet/155565/)
+-   [Tutorial NPC's](https://pedrodis.itch.io/theforestcharacterpack2)
+-   [Chort, Demon Enemy Sprites](https://0x72.itch.io/dungeontileset-ii)
+-   Enemy Attacks
+-   [Fireball](https://msfrantz.itch.io/free-fire-ball-pixel-art)
+-   [Pixel Art Dungeon Tiles](https://mythic-nemesis.itch.io/pixel-dungeon-assets)
+-   ![A dungeon themed tileset](/assets/tiles/tilemap.png ""A description of the floor layout and map"")
+-   [DYA Games Dungeon Background](https://www.instagram.com/p/BhUirX5h-K7/)
+-   [enemy death sfx](https://www.youtube.com/watch?v=JJClRjDYFL0)
+-   [player hit sfx](https://www.youtube.com/watch?v=5oHHIyDA91U)
+-   [weapon reload sfx](https://pixabay.com/sound-effects/1911-reload-6248/)
+-   [pistol sfx](https://www.fesliyanstudios.com/play-mp3/7143)
+-   [smg sfx](https://www.fesliyanstudios.com/play-mp3/7126)
+-   [sniper sfx | far distance](https://www.fesliyanstudios.com/play-mp3/7156)
+-   [npc talked sfx](https://www.youtube.com/watch?v=7OdFGaaWmzo)
+-   [button sfx](https://www.youtube.com/watch?v=5UHmxWsPNzg)
+-   [enemy shooting sfx](https://pixabay.com/sound-effects/fireball-whoosh-1-179125/)
+-   [dodge rolling sfx |'arrow whoosh'](https://mixkit.co/free-sound-effects/whoosh/)
+-   [chest opening sfx](https://www.youtube.com/watch?v=1DfN9fNuXmM)
+-   [weapon and bullet images""](https://free-game-assets.itch.io/free-guns-pack-2-for-main-characters-pixel-art)
+-   [restart button image](https://www.pixilart.com/art/ui-restart-button-4e55c102013b890)
+-   [yes no buttons](https://static.vecteezy.com/system/resources/previews/009/877/869/original/pixel-art-blue-square-buttons-for-game-interface-and-apps-icon-for-8bit-game-on-white-background-vector.jpg)
+-   [win background](https://www.freepik.com/premium-ai-image/pixel-art-cave-entrance-natural-tunnel-landscape-retro-style-8-bit-game-ai_62869952.htm)
+-   [lobby music](https://www.youtube.com/watch?v=OUCH8B-BMoc)
+-   [game music](https://www.youtube.com/watch?v=7md_gd3HuMQ)
+-   [death sound](https://pixabay.com/sound-effects/the-terror-of-flatlining-34031/)
+-   [win music](https://drive.google.com/file/d/1QgMqL8h9WWaoGJjKOJEyqFewsunN2xda/view?usp=drive_link)"
+purple.md,Schedulsine,purple,"Michael Bocelli, Farhan Ohe","Schedulsine is a fast-paced, management-style cooking game where you need to run your kitchen like the CPU in a computer.
+Just as the OS needs to strategically schedule jobs to run on the CPU, you will need to schedule which dishes to prepare in
+order to optimize your profit and other metrics. Players will be taught about famous OS job scheduling algorithms through
+actually implementing them in the context of a Gordon Ramsay-style kitchen environment. Once they have the knowledge, they
+can go on to compete and see who can schedule the best.","Navigate to the ""CAREER"" menu to start learning the algorithms. To schedule a ticket, simply drag it to the dark purple area
+to its right. Once there you can see which ingredients you need to grab from the fridge/pantry on the left side of the kitchen!
+Drag an ingredient to a station to cook it in some way (see the ""HELP"" menu for more info). To create the actual dish, drag a
+plate to the service table under the bell. Then, drag the ingredients to it. Click the bell to serve the dish!",![Large screenshot of shift 1 Schedulsine gameplay.](docs/large.png),https://www.youtube.com/embed/hAuW02NNK1U?si=uvf76RmktuGYo8P7,Link to our [egdd](docs/egdd.md),"All artwork - Michael Bocelli
+
+-   Wood Fire Burning Audio: https://www.youtube.com/watch?v=AgXIaK7iNp0&ab_channel=AshwinRajani
+-   Chopping Vegetables Audio: https://www.youtube.com/watch?v=QeO1_lZN8c8&ab_channel=YourFilmSounds
+-   Oil Sizzling Audio: https://www.youtube.com/watch?v=VuW50fbPtQM&ab_channel=OriginalSoundEffects
+-   Washing Vegetables in sink Audio: https://www.youtube.com/shorts/-LEBK1uBB3A
+-   Hells Kitchen Audio: https://www.youtube.com/watch?v=-8yVErvnufQ&ab_channel=Soundbeats129"
+red.md,Bash the Dungeon,red,"Ryan Sanchez, Christian Rullan Crespo","Bash the Dungeon is a top-down adventure game where players explore a dungeon and learn bash commands as they meet friendly dungeon dwellers and defeat enemeies. With each enemy encounter, players put their bash skills to the test as they strategically use their 'spells.' Players utilize an in-game terminal to enter bash commands and navigate filesystems.",Use arrow keys to move your player around and type commands using your keyboard.,![large screenshot](assets/large.png),https://www.youtube.com/embed/Uysqua-uvHU?si=7qVKdlJET1pASadU,Link to our [egdd](https://ud-s24-cisc374.github.io/final-project-red/docs/egdd.html),"* Start Background - [YUCALORA on Shutterstock](https://www.shutterstock.com/image-vector/dark-dungeon-long-medieval-castle-corridor-2118070751)
+* Hearts - [SwooshWhoosh on itch.io](https://swooshwhoosh.itch.io/heartsui)
+* Battle Music - [""Retro Platforming"" by David Fesliyan](https://www.fesliyanstudios.com/royalty-free-music/download/retro-platforming/454)
+* Background Music - [""8 Bit Nostalgia"" by David Fesliyan](https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-nostalgia/2289)"
+teal.md,Boolean Bonanza,teal,"Angelo Ramos, Patrick Tiamson","Dive into the exciting world of programming with our interactive puzzle game designed to make learning fun! Master the essential coding skill of boolean expressions as you solve engaging challenges that stimulate your mind. Perfect for beginners and experienced coders alike, our game transforms complex concepts into easy-to-understand, enjoyable puzzles. Whether you're looking to boost your programming skills or just love a good brain teaser, this game is your gateway to coding mastery. Ready to code and play your way to success? Join us and turn learning into an adventure!","### Objective
+
+-   Evaluate boolean expressions to `true` to complete objectives
+
+### Controls
+
+-   **Arrow Keys (Up, down, left, right) or WASD Keys**: Swap and move tiles around the board
+-   **R Key**: Select a row
+-   **C Key**: Select a column
+-   **ENTER Key**: Confirm your choice",![Screenshot of gameplay in action](docs/large.png),https://drive.google.com/file/d/1C1m25t_aci_TQ4Rk8dyEPvJn0G0vVa6e/view,Link to our [EGDD](https://ud-s24-cisc374.github.io/final-project-teal/docs/egdd),"-   <a href=""https://www.vecteezy.com/vector-art/145740-children-drawing-vector"">Children Drawing Vector Vectors by Vecteezy</a>
+-   <a href=""https://www.vecteezy.com/vector-art/6561612-icon-in-hand-draw-style-drawing-with-wax-crayons-children-s-creativity"">Icon in hand draw style. Drawing with wax crayons, children&#39;s creativity Vectors by Vecteezy</a>"
+violet.md,Finite Builder,violet,Regis Jet Puebla,"A powerful AI named AGAPE has captured and imprisoned your conscience in their Finite Domain and says you must analyze strings and build machines to escape, or be trapped forever. AGAPE is incredibly moody for an AI that was designed to generate languages but evolved into this highly advanced entity. Tired of having to construct machines to generate languages itself, AGAPE now forces others to do the work for them. As glint of help, it primes its hostages with an intelligence test to see if they understand what to do, once they are capable, it is time to Finite Build.","1. Click ""Play"" or ""Exit""
+
+2. Select level by clicking on a numbered button.
+
+3. Analyze strings by clicking on the words that belong in the specified language description.
+
+4. Click ""Run"" to see if you are correct. All green words means you are correct and get to click ""Build"". Any red wrods means you are incorrect and will have to click ""Restart"" and try again.
+
+5. Build a finite state machine by dragging all the circles (states) onto the screen, dragging all arrows (transitions) to a respective circle (state), whether it be itself or another to match the specified language description.
+
+6. Click ""Run"" to see if you are correct. Green ""Next Level"" button means you are correct and get to click it to select the next level. Red arrows/squares, or red ""Next Level"" button means you are incorrect and will have to rebuild the machine again.",![Large Screenshot](/docs/large.png),https://drive.google.com/file/d/1aX3coUbMxIr-aNNitm2dFu5c2YYoFyrQ/view?usp=sharing,Link to our [[egdd](https://github.com/UD-S24-CISC374/final-project-violet/blob/main/docs/egdd.md)](Educational Game Design Document),Regis Jet Puebla (rpuebla@udel.edu)
+yellow.md,StackPack Journey,yellow,"Aparna Roy, Emilie Barniak, Samantha Glover","StackPack Journey is a puzzle platform game designed to teach players about the stack data structure and its Last-In-First-Out (LIFO) principle. Players embark on a journey to reunite with their lost soulmate in a strange world. Equipped with a StackPack (a backpack that works like a stack), players must strategically collect (push) and use (pop) items scattered throughout the world to overcome obstacles and ultimately reach their soulmate. Every decision matters, as players must carefully determine exactly when to push and pop items to move forward. By mastering stack manipulation, players progress through the game while gaining a deeper understanding of the stack.","-   Use the arrow keys to move and jump.
+-   Press 'E' to PUSH (collect) an item into your StackPack. All collectable items pulsate.
+-   Press 'F' to POP (use) an item from your StackPack. You can only use items in areas that light up when you go near them!
+-   You can only POP (use) items from the **top** of your StackPack, so think carefully about the order you'll need to use items when you PUSH and POP. Remember: the **L**ast item you PUSH **I**n is the **F**irst item you can POP **O**ut (**LIFO**).
+-   If you make a mistake, click the 'Free Pop' button in the top left to POP out items from your StackPack, but use your Free Pops sparingly, as you have a limited number of them.
+-   Your goal in each level is to reach and unlock the door. Good luck!",![Game Screenshot](https://github.com/UD-S24-CISC374/final-project-yellow/blob/b2d73da0925f4531316612307ef84bf841d3e7a1/docs/large.png?raw=true),https://drive.google.com/file/d/1VieNLLkLdERRm2x6FSnr-KLPQ-DvZZaL/preview,Link to our [EGDD](https://github.com/UD-S24-CISC374/final-project-yellow/blob/main/docs/egdd.md),Link to our [sources](https://github.com/UD-S24-CISC374/final-project-yellow/blob/main/docs/sources.md)

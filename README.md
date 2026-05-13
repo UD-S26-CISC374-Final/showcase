@@ -1,2 +1,3 @@
 # showcase
-A showcase of the awesome projects that students have made in CISC374 in Spring 2026
+
+A showcase of the awesome projects that students have made in CISC374.
